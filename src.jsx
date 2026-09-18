@@ -50,7 +50,10 @@ function App() {
           )}
         </div>
         <a href="#top" className="brand">
-          <img src="/flagged-life-logo-transparent.png" alt="Flagged Life" />
+          <img
+            src="https://raw.githubusercontent.com/MoonDogg1975/Flagged/main/public/flagged-life-logo-transparent.png"
+            alt="Flagged Life"
+          />
         </a>
         <div className="cartAction">
           <button
